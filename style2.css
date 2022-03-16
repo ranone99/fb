@@ -1,0 +1,105 @@
+body{
+    
+    display:  block; 
+}
+#ts{
+    text-align: center;
+    background-color: #fffbe2;
+     
+     
+}
+
+#fc{
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    color: #1877f2;
+}
+
+#tx{
+    text-align: right;
+    background-repeat: round;
+    background-image: url("tx1.jpg");
+    border-style: none;
+     width: 300px;
+     height: 40px;
+}
+#tx2{
+   text-align: right;
+    border-style: none;
+    margin-top: 5px;
+background :#f5f6f7;
+     width: 300px;
+     height: 40px;
+     background-repeat: round;
+     background-image: url("tx2.jpg");
+}
+
+#txall{
+    text-align: center;
+}
+
+#add{
+    font-size: 22px;
+    font-family: fantasy;
+       background-image: url("bu.jpg");
+   margin-top: 10px;
+   width: 309px;
+     height: 42px;
+     border-style: none;
+     background-repeat: round;
+}
+
+
+#d{
+    position: absolute;
+}
+#hal{
+    color: #216fdb;
+    font-size: 15px;
+    
+}
+#ao{
+     font-size: 22px;
+    font-family: fantasy;
+       background-image: url("ao.jpg");
+   margin-top: 10px;
+   width: 315px;
+     height: 20px;
+     border-style: none;
+     background-repeat: round;
+}
+
+#ansh{
+    font-size: 22px;
+    font-family: fantasy;
+       background-image: url("ansh.jpg");
+   margin-top: 10px;
+   width: 120px;
+     height: 35px;
+     border-style: none;
+     background-repeat: round;
+}
+
+#ar{
+    font-size: 22px;
+    font-family: fantasy;
+       background-image: url("ar.jpg");
+   margin-top: 100px;
+   width: 340px;
+     height: 150px;
+     border-style: none;
+     background-repeat: round;
+}
+
+#ah{
+    
+   font-size: 22px;
+    font-family: fantasy;
+       background-image: url("ah.jpg");
+   margin-top: 10px;
+   width: 340px;
+     height: 42px;
+     border-style: none;
+     background-repeat: round;
+}
